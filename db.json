@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80",
+      "title": "Sport Shoe for Men",
+      "price": 1500,
+      "brand": "Puma",
+      "discount": "15",
+      "category": "men",
+      "id": 1
+    },
+    {
+      "image_url": "https://thumbs.dreamstime.com/b/blue-shoes-29507491.jpg",
+      "title": "Sport Shoe for Women",
+      "price": "1500",
+      "brand": "Lofar Shoe",
+      "discount": "15",
+      "category": "women",
+      "id": 2
+    },
+    {
+      "image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1614373161-too-faced-better-than-sex-mascara-1614373150.jpg",
+      "title": "Eye Bro",
+      "price": 2000,
+      "brand": "Lakme",
+      "discount": "10",
+      "category": "women",
+      "id": 3
+    },
+    {
+      "image_url": "https://img.faballey.com/images/Product/ILK00196Z/d3.jpg",
+      "title": "Wedding Dress",
+      "price": 5000,
+      "brand": "Biba",
+      "discount": "13",
+      "category": "women",
+      "id": 4
+    },
+    {
+      "image_url": "https://cdn.shopify.com/s/files/1/2542/7564/products/2_e8cf6508-d021-4ac7-83f7-33c7f107f857_1400x.png?v=1642503520",
+      "title": "Latest Wedding Dress",
+      "price": 20000,
+      "brand": "Fabindia",
+      "discount": "50",
+      "category": "women",
+      "id": 5
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/10/FV/YI/NO/4769003/teady-500x500.jpg",
+      "title": "Cotton Pink Soft Teddy",
+      "price": 1200,
+      "brand": "Cotton",
+      "discount": "5",
+      "category": "kids",
+      "id": 6
+    },
+    {
+      "image_url": "https://n2.sdlcdn.com/imgs/k/e/p/PINK-I-LOVE-YOU-TEDDY-SDL547560176-1-386a6.jpg",
+      "title": "Pink I love You Teddy",
+      "price": 3500,
+      "brand": "Cutton",
+      "discount": "2",
+      "category": "kids",
+      "id": 7
+    },
+    {
+      "image_url": "https://assets.ajio.com/medias/sys_master/root/20220114/gDKK/61e16082f997dd66232183b8/-473Wx593H-463659899-blue-MODEL.jpg",
+      "title": "Women Top",
+      "price": 2500,
+      "brand": "Denim",
+      "discount": "25",
+      "category": "women",
+      "id": 8
+    },
+    {
+      "image_url": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPLUFAA-WOMEN-VARU1237562B984BF4/1562914102689_0..jpg",
+      "title": "Blue Jeans",
+      "price": 1600,
+      "brand": "NJ",
+      "discount": "12",
+      "category": "women",
+      "id": 9
+    },
+    {
+      "image_url": "https://qph.cf2.quoracdn.net/main-qimg-e1b378a1f5424d8543313ff1985eeb04-lq",
+      "title": "T-Shirt Modern Trim Fit",
+      "price": 1000,
+      "brand": "Zara",
+      "discount": "20",
+      "category": "men",
+      "id": 10
+    },
+    {
+      "image_url": "https://rukminim1.flixcart.com/image/612/612/ktd9mkw0/shirt/m/q/x/xxl-frml-st2-vebnor-original-imag6qduuh3efv3w.jpeg?q=70",
+      "title": "Latest Shirts",
+      "price": 1500,
+      "brand": "Armani",
+      "discount": "10",
+      "category": "men",
+      "id": 11
+    },
+    {
+      "image_url": "https://i.pinimg.com/originals/70/ae/10/70ae1024f1545e725d40e49f77aedf8c.png",
+      "title": "Formal Suits",
+      "price": 10000,
+      "brand": "Peter England",
+      "discount": "25",
+      "category": "men",
+      "id": 12
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/ECOM/Default/2022/12/BD/MQ/YD/9422220/new-glowing-up-kids-shoes-breathable-boys-girls-sport-shoes-children-casual-sneakers-baby-876-250x250.jpg",
+      "title": "New Glowing Up Kids Shoe",
+      "price": 1400,
+      "brand": "Addidas",
+      "discount": "6",
+      "category": "kids",
+      "id": 13
+    },
+    {
+      "image_url": "https://pictures-kenya.jijistatic.com/41959327_MTUwMC0xNTAwLTgzMTM1MDViODY.jpg",
+      "title": "Kids Shoes",
+      "price": 1200,
+      "brand": "Nairobi",
+      "discount": "2",
+      "category": "kids",
+      "id": 14
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/SG/DY/MY-2746980/boys-kids-dress-500x500.jpg",
+      "title": "Kids Dress",
+      "price": 1650,
+      "brand": "Zara",
+      "discount": "5",
+      "category": "kids",
+      "id": 15
+    },
+    {
+      "image_url": "https://i.pinimg.com/originals/f5/ac/4a/f5ac4a4f14eff571e0c42e238b4dc596.png",
+      "title": "Pin and Bellas Flores",
+      "price": 1250,
+      "brand": "Faballey",
+      "discount": "6",
+      "category": "kids",
+      "id": 16
+    },
+    {
+      "image_url": "http://cdn.shopify.com/s/files/1/0253/9628/1399/products/2020-kids-clothes-boys-spring-autumn-pleuche-sports-suit-boys-set-tracksuits-children-875.jpg?v=1637591230",
+      "title": "Sport Suit",
+      "price": 2160,
+      "brand": "Peter England",
+      "discount": "20",
+      "category": "kids",
+      "id": 17
+    },
+    {
+      "image_url": "https://5.imimg.com/data5/ZV/EH/IQ/SELLER-15604743/fashion-wrist-watch-for-men-boys-iik-721m-1000x1000.jpg",
+      "title": "Fashion Watch for Men",
+      "price": 600,
+      "brand": "Luminox",
+      "discount": "8",
+      "category": "men",
+      "id": 18
+    },
+    {
+      "image_url": "https://rukminim1.flixcart.com/image/832/832/xif0q/watch/o/3/c/2-men-jubile-gold-daniel-jubile-men-original-imagjj6uehdreggx.jpeg?q=70",
+      "title": "New Men Watch",
+      "price": 1800,
+      "brand": "Klein",
+      "discount": "12",
+      "category": "men",
+      "id": 19
+    },
+    {
+      "image_url": "https://images.meesho.com/images/products/54129460/a8ufy_512.jpg",
+      "title": "Casual Sport Shoes Women",
+      "price": 3200,
+      "brand": "Goldstart",
+      "discount": "4",
+      "category": "women",
+      "id": 20
+    },
+    {
+      "image_url": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/3/2/v/6-ls5950-6-layasa-pink-white-original-imageh9zgzvjp6eg-bb.jpeg?q=70",
+      "title": "Stylish Sport Shoes ",
+      "price": 3200,
+      "brand": "Layasa",
+      "discount": "8",
+      "category": "women",
+      "id": 21
+    },
+    {
+      "image_url": "https://cdn.shopify.com/s/files/1/0254/9592/8868/products/The-Edmonton-Wine_large.jpg?v=1667035585",
+      "title": "Best High Heel Shoes",
+      "price": 2550,
+      "brand": "Metro ",
+      "discount": "7",
+      "category": "women",
+      "id": 22
+    }
+  ]
+}
